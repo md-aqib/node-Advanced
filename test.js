@@ -19,9 +19,3 @@
 // }
 
 // console.log(abc(keys, values))
-
-function abc(b){
-    console.log(a + b)
-    b = a
-}
-abc(2)
